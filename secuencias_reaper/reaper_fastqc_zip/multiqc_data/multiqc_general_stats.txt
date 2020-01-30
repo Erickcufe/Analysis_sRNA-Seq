@@ -1,0 +1,8 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+MODEK_EV_r1_100k	84.516	56.0	26.31192	41.66666666666667	100000.0
+MODEK_EV_r2_100k	85.355	49.0	24.8902	41.66666666666667	100000.0
+MODEK_ctrl_r1_100k	93.327	46.0	22.85336	41.66666666666667	100000.0
+MODEK_ctrl_r2_100k	93.451	46.0	22.88032	41.66666666666667	100000.0
+MODEK_ctrl_r3_100k	93.9	47.0	22.96948	41.66666666666667	100000.0
+Pure_EV_r1_100k	67.20599999999999	53.0	22.74832	41.66666666666667	100000.0
+Pure_EV_r2_100k	65.061	52.0	22.63123	41.66666666666667	100000.0

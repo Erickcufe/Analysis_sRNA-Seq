@@ -1,0 +1,8 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	MODEK_EV_r1_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/MODEK_EV_r1_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	MODEK_ctrl_r1_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/MODEK_ctrl_r1_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	Pure_EV_r1_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/Pure_EV_r1_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	Pure_EV_r2_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/Pure_EV_r2_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	MODEK_ctrl_r2_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/MODEK_ctrl_r2_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	MODEK_EV_r2_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/MODEK_EV_r2_100k.fq.gz.lane.clean_fastqc.zip
+FastQC	all_sections	MODEK_ctrl_r3_100k	/home/erick/Documentos/ProyectoCei/secuencias_reaper/reaper_fastqc_zip/MODEK_ctrl_r3_100k.fq.gz.lane.clean_fastqc.zip
