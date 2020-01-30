@@ -1,1 +1,1 @@
-# Analsys_sRNA-Seq
+# Analysis_sRNA-Seq
